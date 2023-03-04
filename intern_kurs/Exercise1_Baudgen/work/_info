@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen
+Ebaudgen_tb
+w1677930764
+DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+8C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd
+FC:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd
+l0
+L7
+V^JGje:iHSFYRE<NDf0DSM0
+!s100 7XE>g5UP0Uak@VK@SZ^=V2
+OV;C;10.5b;63
+33
+!s110 1677940573
+!i10b 1
+!s108 1677940573.000000
+!s90 -reportprogress|300|-work|work|C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd|
+!s107 C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd|
+!i113 1
+o-work work
+tExplicit 1 NoCoverage 1 CvgOpt 0
