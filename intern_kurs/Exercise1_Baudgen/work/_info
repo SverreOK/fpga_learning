@@ -8,25 +8,87 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen
-Ebaudgen_tb
-w1677930764
-DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Ebaudgen
+Z1 w1677945663
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 R0
-8C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd
-FC:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd
+Z5 8C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/baudgen.vhd
+Z6 FC:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/baudgen.vhd
+l0
+L8
+Vll_jn0a_d;M;]C6_aPO1]1
+!s100 W<Xk5Q>3WOEKLRGIPOG?B1
+Z7 OV;C;10.5b;63
+33
+!s110 1677945672
+!i10b 1
+!s108 1677945672.000000
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/baudgen.vhd|
+!s107 C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/baudgen.vhd|
+!i113 1
+Z9 o-work work
+Z10 tExplicit 1 NoCoverage 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+Z11 DEx4 work 7 baudgen 0 22 BhU@]1jdD=9R9aSK<QL`=1
+l29
+L19
+VW2BhJ^S^QW?<EHQlOj=CD3
+!s100 D4U_e?k60P8WB<nB2:4m`1
+R7
+33
+Z12 !s110 1677941735
+!i10b 1
+Z13 !s108 1677941735.000000
+R8
+!s107 C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/baudgen.vhd|
+!i113 1
+R9
+R10
+Ebaudgen_tb
+Z14 w1677930764
+R2
+R3
+R4
+R0
+Z15 8C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd
+Z16 FC:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd
 l0
 L7
 V^JGje:iHSFYRE<NDf0DSM0
 !s100 7XE>g5UP0Uak@VK@SZ^=V2
-OV;C;10.5b;63
+R7
 33
-!s110 1677940573
+R12
 !i10b 1
-!s108 1677940573.000000
-!s90 -reportprogress|300|-work|work|C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd|
-!s107 C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd|
+R13
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd|
+Z18 !s107 C:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise1_Baudgen/exercise1_tb.vhd|
 !i113 1
-o-work work
-tExplicit 1 NoCoverage 1 CvgOpt 0
+R9
+R10
+Asim
+DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+R11
+R2
+R3
+R4
+DEx4 work 10 baudgen_tb 0 22 ^JGje:iHSFYRE<NDf0DSM0
+l33
+L13
+V0Re8WNJG<ci7d2bhieLk63
+!s100 m2Tm?G;U2EBije=2NO_Jm0
+R7
+33
+R12
+!i10b 1
+R13
+R17
+R18
+!i113 1
+R9
+R10
