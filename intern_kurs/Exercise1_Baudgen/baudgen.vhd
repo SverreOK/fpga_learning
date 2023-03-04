@@ -40,6 +40,7 @@ type ROM is array (0 to 3) of integer range 0 to g_clockspeed;
     signal s_output             : std_logic := '0';
     signal s_last_baudrate      : integer range 0 to g_clockspeed;
 begin
+    BAUD_OUT <= s_output;
 -- Her skjer prosessene parallellt
     process(CLK)
         begin
@@ -59,11 +60,17 @@ begin
                                 s_baudrate <= baudPeriod(2);
                             when "11" =>
                                 s_baudrate <= baudPeriod(3);
+                            when others =>
+                                NULL;
                         end case;
                     end if;
-
+                    s_counter <= s_counter + 1;
                     if s_counter = s_baudrate - 1 then
-                         s_output <= '1';
+                        s_output <= '1';
+                        s_counter <= 0;
+                    end if;
+                    if s_counter = 0 then
+                        s_output <= '0';
                     end if;
                 end if;
             end if;
