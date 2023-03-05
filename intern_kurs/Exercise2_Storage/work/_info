@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Sverr/Desktop/code/fpga_learning/intern_kurs/Exercise2_Storage
+Estorage
+Z1 w1678017300
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8storage.vhd
+Z6 Fstorage.vhd
+l0
+L5
+VVicEC5nI[KYMzz=zDK;NH3
+!s100 OJ6HloKfOIh3XYM^[WKWU1
+Z7 OV;C;10.5b;63
+33
+Z8 !s110 1678017928
+!i10b 1
+Z9 !s108 1678017928.000000
+Z10 !s90 -reportprogress|300|storage.vhd|
+Z11 !s107 storage.vhd|
+!i113 1
+Z12 tExplicit 1 NoCoverage 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+Z13 DEx4 work 7 storage 0 22 VicEC5nI[KYMzz=zDK;NH3
+l23
+L17
+V[<hG9^M75iP@d:U8W^QTD2
+!s100 [Dzd;MYLLd6<6MGXcSHV81
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Estorage_tb
+Z14 w1677930782
+R2
+R3
+R4
+R0
+Z15 8exercise2_tb.vhd
+Z16 Fexercise2_tb.vhd
+l0
+L7
+VOUPUPXERfO>P1X^;=JYfQ0
+!s100 g@zDHn_SWeOCSL=Xidc>m1
+R7
+33
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|exercise2_tb.vhd|
+Z18 !s107 exercise2_tb.vhd|
+!i113 1
+R12
+Asim
+Z19 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+R13
+R2
+R3
+R4
+Z20 DEx4 work 10 storage_tb 0 22 OUPUPXERfO>P1X^;=JYfQ0
+l28
+L13
+Z21 VLj5`8=:hknR<;i[ohJAf>1
+Z22 !s100 L]4lBPfYdL`l<eEAf=_`R2
+R7
+33
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
